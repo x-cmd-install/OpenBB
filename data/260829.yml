@@ -1,0 +1,56 @@
+about:
+  description: Open Data Platform for analysts, quants and AI agents.
+  license: NOASSERTION
+  homepage: https://openbb.co
+  head: 3e071fc
+  archived: false
+  latestVersion: ODP
+  collectedAt: 2026-08-29T05:20:48Z
+timeline:
+  created: 2020-12-20
+  lastCommit: 2026-07-20
+  lastRelease: 2026-04-25
+popularity:
+  star: 72416
+  watcher: 458
+  fork: 7467
+  release: 56
+  contributor: 265
+  pullRequest: 726
+  issue: 2324
+language:
+  Python: 8884779
+totalLine: 8884779
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 0
+    mergedPR: 0
+    openPR: 12
+    closedIssue: 1
+    openIssue: 9
+    commit: 0
+  last90d:
+    since: 2026-05-31
+    release: 0
+    mergedPR: 28
+    openPR: 36
+    closedIssue: 8
+    openIssue: 13
+    commit: 12
+  last180d:
+    since: 2026-03-02
+    release: 3
+    mergedPR: 91
+    openPR: 42
+    closedIssue: 20
+    openIssue: 22
+    commit: 60
+  last360d:
+    since: 2025-09-03
+    release: 10
+    mergedPR: 179
+    openPR: 50
+    closedIssue: 58
+    openIssue: 25
+    commit: 147

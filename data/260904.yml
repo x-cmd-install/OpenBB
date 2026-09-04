@@ -7,7 +7,7 @@ about:
   head: 3e071fc
   archived: false
   latestVersion: ODP
-  collectedAt: 2026-09-04T19:18:23Z
+  collectedAt: 2026-09-04T21:16:29Z
 timeline:
   created: 2020-12-20
   lastCommit: 2026-07-20
@@ -15,7 +15,7 @@ timeline:
 popularity:
   star: 72670
   watcher: 462
-  fork: 7505
+  fork: 7506
   release: 56
   contributor: 265
   pullRequest: 5033
@@ -80,5 +80,98 @@ total:
   openIssue: 55
   commit: 6863
 ---
+path: /home/runner/.x-repo/github.com/OpenBB-finance/OpenBB
+collectedAt: 2026-09-04T21:20:10Z
+loc:
+  Yaml:
+    code: 1224766
+    comments: 0
+    blanks: 0
+    files: 329
+  Python:
+    code: 214849
+    comments: 7509
+    blanks: 30930
+    files: 1291
+  Json:
+    code: 164662
+    comments: 0
+    blanks: 3
+    files: 72
+  Tsx:
+    code: 14884
+    comments: 741
+    blanks: 1455
+    files: 38
+  Rust:
+    code: 13889
+    comments: 820
+    blanks: 1925
+    files: 19
+  Toml:
+    code: 1318
+    comments: 12
+    blanks: 225
+    files: 59
+  Css:
+    code: 543
+    comments: 30
+    blanks: 92
+    files: 2
+  TypeScript:
+    code: 394
+    comments: 21
+    blanks: 39
+    files: 8
+  Svg:
+    code: 368
+    comments: 0
+    blanks: 3
+    files: 6
+  Ini:
+    code: 267
+    comments: 196
+    blanks: 314
+    files: 26
+  JavaScript:
+    code: 133
+    comments: 7
+    blanks: 5
+    files: 4
+  Html:
+    code: 116
+    comments: 4
+    blanks: 10
+    files: 2
+  PowerShell:
+    code: 49
+    comments: 14
+    blanks: 13
+    files: 2
+  Dockerfile:
+    code: 29
+    comments: 11
+    blanks: 17
+    files: 2
+  Autoconf:
+    code: 5
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 6266
+    blanks: 2857
+    files: 76
+  Text:
+    code: 0
+    comments: 5
+    blanks: 0
+    files: 2
+total:
+  code: 1637987
+  comments: 15721
+  blanks: 38046
+  files: 1939
 ---
 

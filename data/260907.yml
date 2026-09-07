@@ -5,15 +5,15 @@ about:
   head: 3e071fc
   archived: false
   latestVersion: "ODP"
-  collectedAt: 2026-09-07T06:01:28Z
+  collectedAt: 2026-09-07T18:25:02Z
 timeline:
   created: 2020-12-20
   lastCommit: 2026-07-20
   lastRelease: 2026-04-25
 popularity:
-  star: 72724
+  star: 72748
   watcher: 465
-  fork: 7511
+  fork: 7513
   release: 56
   contributor: 265
   pullRequest: 5037
@@ -26,7 +26,7 @@ recent:
     since: 2026-08-08
     release: 0
     mergedPR: 0
-    openPR: 10
+    openPR: 9
     closedIssue: 1
     openIssue: 10
     commit: 0
@@ -34,7 +34,7 @@ recent:
     since: 2026-07-09
     release: 0
     mergedPR: 9
-    openPR: 31
+    openPR: 30
     closedIssue: 4
     openIssue: 18
     commit: 2
@@ -42,7 +42,7 @@ recent:
     since: 2026-06-09
     release: 0
     mergedPR: 22
-    openPR: 41
+    openPR: 40
     closedIssue: 8
     openIssue: 18
     commit: 11
@@ -50,7 +50,7 @@ recent:
     since: 2026-03-11
     release: 2
     mergedPR: 82
-    openPR: 48
+    openPR: 47
     closedIssue: 18
     openIssue: 25
     commit: 46
@@ -58,7 +58,7 @@ recent:
     since: 2025-09-12
     release: 10
     mergedPR: 177
-    openPR: 56
+    openPR: 55
     closedIssue: 58
     openIssue: 30
     commit: 139
@@ -66,20 +66,20 @@ recent:
     since: 2024-09-17
     release: 18
     mergedPR: 416
-    openPR: 62
+    openPR: 61
     closedIssue: 240
     openIssue: 45
     commit: 371
 total:
   release: 56
   mergedPR: 4303
-  openPR: 63
+  openPR: 62
   closedIssue: 2275
   openIssue: 55
   commit: 6863
 ---
 path: /home/runner/.x-repo/github.com/OpenBB-finance/OpenBB
-collectedAt: 2026-09-07T06:14:02Z
+collectedAt: 2026-09-07T18:34:10Z
 loc:
   Yaml:
     code: 1224766
@@ -175,7 +175,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:14:06+00:00
+  collectedAt: 2026-09-07T18:34:14+00:00
   platform:
     darwin/arm64:
       name:  Open-Data-Platform_1.0.2_aarch64.app.tar.gz

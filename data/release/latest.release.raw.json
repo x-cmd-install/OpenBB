@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2019,
       "digest": "sha256:23158d7be18bc72269412156faa2991abde83870ff60dc44d0529c612c92b1bf",
-      "download_count": 6470,
+      "download_count": 6489,
       "created_at": "2026-04-25T04:19:07Z",
       "updated_at": "2026-04-25T04:19:08Z",
       "browser_download_url": "https://github.com/OpenBB-finance/OpenBB/releases/download/ODP/latest.json"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 13402010,
       "digest": "sha256:2a7d67891b0318e7c438e77ead73596cd45cef62426ba3c2bc232d8c2f7a9b44",
-      "download_count": 1371,
+      "download_count": 1376,
       "created_at": "2026-04-25T04:19:07Z",
       "updated_at": "2026-04-25T04:19:09Z",
       "browser_download_url": "https://github.com/OpenBB-finance/OpenBB/releases/download/ODP/Open-Data-Platform_latest_aarch64.dmg"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 13728099,
       "digest": "sha256:4193a20ee320850a1d9f8c88de0181d1e853447c3df30a283012284cc2824140",
-      "download_count": 554,
+      "download_count": 558,
       "created_at": "2026-04-25T04:19:07Z",
       "updated_at": "2026-04-25T04:19:08Z",
       "browser_download_url": "https://github.com/OpenBB-finance/OpenBB/releases/download/ODP/Open-Data-Platform_latest_x86_64.dmg"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 9320520,
       "digest": "sha256:e0d99181d93d6f78969fa06c294971af121d1c2819404464185f69a51386208a",
-      "download_count": 3148,
+      "download_count": 3163,
       "created_at": "2026-04-25T04:19:07Z",
       "updated_at": "2026-04-25T04:19:08Z",
       "browser_download_url": "https://github.com/OpenBB-finance/OpenBB/releases/download/ODP/Open-Data-Platform_latest_x86_64.exe"

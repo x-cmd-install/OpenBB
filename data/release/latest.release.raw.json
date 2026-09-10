@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2019,
       "digest": "sha256:23158d7be18bc72269412156faa2991abde83870ff60dc44d0529c612c92b1bf",
-      "download_count": 6489,
+      "download_count": 6498,
       "created_at": "2026-04-25T04:19:07Z",
       "updated_at": "2026-04-25T04:19:08Z",
       "browser_download_url": "https://github.com/OpenBB-finance/OpenBB/releases/download/ODP/latest.json"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 13402010,
       "digest": "sha256:2a7d67891b0318e7c438e77ead73596cd45cef62426ba3c2bc232d8c2f7a9b44",
-      "download_count": 1376,
+      "download_count": 1377,
       "created_at": "2026-04-25T04:19:07Z",
       "updated_at": "2026-04-25T04:19:09Z",
       "browser_download_url": "https://github.com/OpenBB-finance/OpenBB/releases/download/ODP/Open-Data-Platform_latest_aarch64.dmg"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 9320520,
       "digest": "sha256:e0d99181d93d6f78969fa06c294971af121d1c2819404464185f69a51386208a",
-      "download_count": 3163,
+      "download_count": 3168,
       "created_at": "2026-04-25T04:19:07Z",
       "updated_at": "2026-04-25T04:19:08Z",
       "browser_download_url": "https://github.com/OpenBB-finance/OpenBB/releases/download/ODP/Open-Data-Platform_latest_x86_64.exe"
@@ -186,13 +186,13 @@
   "body": "**This is the latest stable release (v1.0.2)**\n\nThis release always points to the most recent stable version.\nFor version-specific details and release notes, see: [ODP Desktop v1.0.2](https://github.com/OpenBB-finance/OpenBB/releases/tag/Open-Data-Platform-v1.0.2)\n\nThe `latest.json` file in this release is used by the auto-updater to check for new versions.\n",
   "reactions": {
     "url": "https://api.github.com/repos/OpenBB-finance/OpenBB/releases/313517059/reactions",
-    "total_count": 11,
-    "+1": 10,
+    "total_count": 13,
+    "+1": 11,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
     "confused": 0,
-    "heart": 1,
+    "heart": 2,
     "rocket": 0,
     "eyes": 0
   }

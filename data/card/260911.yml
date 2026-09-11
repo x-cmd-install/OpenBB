@@ -7,7 +7,7 @@ about:
   latestVersion: "ODP"
   latestRelease: "ODP"
   latestPrerelease: "Open-Data-Platform-v0.9.1"
-  collectedAt: 2026-09-11T06:14:58Z
+  collectedAt: 2026-09-11T18:23:01Z
 timeline:
   created: 2020-12-20
   lastCommit: 2026-07-20
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-04-25
   lastPrerelease: 2025-10-21
 popularity:
-  star: 72878
+  star: 72887
   watcher: 466
-  fork: 7534
+  fork: 7535
   release: 56
   contributor: 265
   pullRequest: 5038
@@ -83,7 +83,7 @@ total:
   commit: 6863
 ---
 path: /home/runner/.x-repo/github.com/OpenBB-finance/OpenBB
-collectedAt: 2026-09-11T06:25:49Z
+collectedAt: 2026-09-11T18:34:05Z
 loc:
   Yaml:
     code: 1224766

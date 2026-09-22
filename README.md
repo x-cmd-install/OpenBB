@@ -4,7 +4,7 @@
 
 Open Data Platform for analysts, quants and AI agents.
 
-![OpenBB](https://repo.x-cmd.io/OpenBB.svg)
+[![x-cmd/install — OpenBB Code Quality Monitoring Repo Card](https://repo.x-cmd.io/OpenBB.svg)](https://x-cmd.com/install/OpenBB)
 
 ## Install
 
@@ -38,22 +38,22 @@ Total: **1,636,272** lines of code across **1749** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 73,165 · **Forks**: 7,570 · **Open issues**: 2,330 · **Contributors**: 265
+- **Stars**: 73,357 · **Forks**: 7,590 · **Open issues**: 2,330 · **Contributors**: 264
 
 ## Totals (cumulative)
 
-- **Releases**: 56 · **Merged PRs**: 4307 · **Open PRs**: 61 · **Closed issues**: 2277 · **Open issues**: 53 · **Commits**: 6863
+- **Releases**: 56 · **Merged PRs**: 4307 · **Open PRs**: 62 · **Closed issues**: 2277 · **Open issues**: 53 · **Commits**: 6863
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 1 | 9 | 1 | 6 | 0 |
-| last60d | 2026-07-20 | 0 | 3 | 25 | 4 | 14 | 0 |
-| 90d | 2026-06-20 | 0 | 23 | 38 | 9 | 16 | 11 |
-| last180d | 2026-03-22 | 2 | 78 | 45 | 18 | 22 | 42 |
-| 360d | 2025-09-23 | 10 | 179 | 54 | 58 | 28 | 137 |
-| last720d | 2024-09-28 | 18 | 407 | 59 | 236 | 40 | 359 |
+| 30d | 2026-08-23 | 0 | 1 | 9 | 1 | 6 | 0 |
+| last60d | 2026-07-24 | 0 | 2 | 25 | 4 | 14 | 0 |
+| 90d | 2026-06-24 | 0 | 21 | 36 | 8 | 16 | 6 |
+| last180d | 2026-03-26 | 2 | 71 | 45 | 18 | 21 | 38 |
+| 360d | 2025-09-27 | 10 | 175 | 55 | 56 | 28 | 134 |
+| last720d | 2024-10-02 | 18 | 400 | 60 | 218 | 40 | 353 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for OpenBB lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:32:04Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T06:36:00Z._

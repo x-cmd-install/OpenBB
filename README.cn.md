@@ -4,7 +4,7 @@
 
 Open Data Platform for analysts, quants and AI agents.
 
-![OpenBB](https://repo.x-cmd.io/OpenBB.svg?lang=zh)
+[![x-cmd/install — OpenBB Code Quality Monitoring Repo Card](https://repo.x-cmd.io/OpenBB.svg?lang=zh)](https://x-cmd.com/install/OpenBB)
 
 ## 安装
 
@@ -38,22 +38,22 @@ x install OpenBB
 
 ## 流行度
 
-- **Star**: 73,165 · **Fork**: 7,570 · **开放 issue**: 2,330 · **贡献者**: 265
+- **Star**: 73,357 · **Fork**: 7,590 · **开放 issue**: 2,330 · **贡献者**: 264
 
 ## 累计统计
 
-- **发布数**: 56 · **已合并 PR**: 4307 · **开放 PR**: 61 · **已关闭 issue**: 2277 · **开放 issue**: 53 · **提交数**: 6863
+- **发布数**: 56 · **已合并 PR**: 4307 · **开放 PR**: 62 · **已关闭 issue**: 2277 · **开放 issue**: 53 · **提交数**: 6863
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 1 | 9 | 1 | 6 | 0 |
-| last60d | 2026-07-20 | 0 | 3 | 25 | 4 | 14 | 0 |
-| 90d | 2026-06-20 | 0 | 23 | 38 | 9 | 16 | 11 |
-| last180d | 2026-03-22 | 2 | 78 | 45 | 18 | 22 | 42 |
-| 360d | 2025-09-23 | 10 | 179 | 54 | 58 | 28 | 137 |
-| last720d | 2024-09-28 | 18 | 407 | 59 | 236 | 40 | 359 |
+| 30d | 2026-08-23 | 0 | 1 | 9 | 1 | 6 | 0 |
+| last60d | 2026-07-24 | 0 | 2 | 25 | 4 | 14 | 0 |
+| 90d | 2026-06-24 | 0 | 21 | 36 | 8 | 16 | 6 |
+| last180d | 2026-03-26 | 2 | 71 | 45 | 18 | 21 | 38 |
+| 360d | 2025-09-27 | 10 | 175 | 55 | 56 | 28 | 134 |
+| last720d | 2024-10-02 | 18 | 400 | 60 | 218 | 40 | 353 |
 
 ## Release 资产
 
@@ -73,4 +73,4 @@ OpenBB 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:32:04Z._
+_数据快照: `data/card/260922.yml` · 2026-09-22T06:36:00Z._

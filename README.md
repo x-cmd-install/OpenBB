@@ -4,7 +4,7 @@
 
 Open Data Platform for analysts, quants and AI agents.
 
-[![x-cmd/install — OpenBB Code Quality Monitoring Repo Card](https://repo.x-cmd.io/OpenBB.svg)](https://x-cmd.com/install/OpenBB)
+[![x-cmd/install — OpenBB Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/OpenBB.svg)](https://x-cmd.com/install/OpenBB)
 
 ## Install
 
@@ -38,7 +38,7 @@ Total: **1,636,272** lines of code across **1749** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 73,357 · **Forks**: 7,590 · **Open issues**: 2,330 · **Contributors**: 264
+- **Stars**: 73,393 · **Forks**: 7,589 · **Open issues**: 2,330 · **Contributors**: 264
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **1,636,272** lines of code across **1749** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 1 | 9 | 1 | 6 | 0 |
-| last60d | 2026-07-24 | 0 | 2 | 25 | 4 | 14 | 0 |
-| 90d | 2026-06-24 | 0 | 21 | 36 | 8 | 16 | 6 |
-| last180d | 2026-03-26 | 2 | 71 | 45 | 18 | 21 | 38 |
-| 360d | 2025-09-27 | 10 | 175 | 55 | 56 | 28 | 134 |
-| last720d | 2024-10-02 | 18 | 400 | 60 | 218 | 40 | 353 |
+| 30d | 2026-08-24 | 0 | 1 | 9 | 1 | 5 | 0 |
+| last60d | 2026-07-25 | 0 | 2 | 23 | 4 | 14 | 0 |
+| 90d | 2026-06-25 | 0 | 21 | 36 | 8 | 16 | 6 |
+| last180d | 2026-03-27 | 2 | 70 | 45 | 18 | 21 | 38 |
+| 360d | 2025-09-28 | 10 | 175 | 55 | 56 | 28 | 134 |
+| last720d | 2024-10-03 | 18 | 397 | 60 | 217 | 40 | 353 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for OpenBB lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:36:00Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:58:12Z._

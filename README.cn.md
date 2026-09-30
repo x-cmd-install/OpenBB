@@ -14,15 +14,15 @@ x install OpenBB
 
 ## 代码洞察
 
-合计: **1,636,272** 行代码（覆盖前 5 种语言、共 **1749** 个文件）。
+合计: **1,370,407** 行代码（覆盖前 5 种语言、共 **3628** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Yaml | 1,224,766 | 0 | 0 | 329 |
-| Python | 214,849 | 7,509 | 30,930 | 1291 |
-| Json | 164,662 | 0 | 3 | 72 |
-| Tsx | 14,884 | 741 | 1,455 | 38 |
-| Rust | 13,889 | 820 | 1,925 | 19 |
+| Python | 730,966 | 8,572 | 119,732 | 2958 |
+| Yaml | 355,116 | 0 | 2 | 361 |
+| Json | 232,662 | 0 | 5 | 169 |
+| Html | 15,824 | 99 | 9,848 | 102 |
+| Tsx | 14,884 | 737 | 1,455 | 38 |
 
 ## 源代码
 
@@ -32,36 +32,36 @@ x install OpenBB
 
 ## 发布
 
-- **最新版本**: `ODP` (2026-04-25)
-- **最近提交**: 2026-07-20
+- **最新版本**: `ODP` (2026-09-30)
+- **最近提交**: 2026-09-29
 - **Release 含资产**: 4 个
 
 ## 流行度
 
-- **Star**: 73,612 · **Fork**: 7,618 · **开放 issue**: 2,331 · **贡献者**: 264
+- **Star**: 73,666 · **Fork**: 7,626 · **开放 issue**: 2,331 · **贡献者**: 268
 
 ## 累计统计
 
-- **发布数**: 56 · **已合并 PR**: 4378 · **开放 PR**: 43 · **已关闭 issue**: 2280 · **开放 issue**: 51 · **提交数**: 6863
+- **发布数**: 58 · **已合并 PR**: 4382 · **开放 PR**: 36 · **已关闭 issue**: 2282 · **开放 issue**: 49 · **提交数**: 6864
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 0 | 59 | 6 | 2 | 3 | 0 |
-| last60d | 2026-07-31 | 0 | 59 | 14 | 7 | 8 | 0 |
-| 90d | 2026-07-01 | 0 | 86 | 21 | 10 | 14 | 5 |
-| last180d | 2026-04-02 | 2 | 134 | 27 | 20 | 18 | 32 |
-| 360d | 2025-10-04 | 10 | 245 | 36 | 59 | 26 | 128 |
-| last720d | 2024-10-09 | 17 | 459 | 41 | 216 | 38 | 343 |
+| 30d | 2026-08-31 | 3 | 62 | 5 | 3 | 2 | 1 |
+| last60d | 2026-08-01 | 3 | 62 | 12 | 9 | 6 | 1 |
+| 90d | 2026-07-02 | 3 | 88 | 17 | 11 | 12 | 6 |
+| last180d | 2026-04-03 | 4 | 138 | 20 | 22 | 16 | 33 |
+| 360d | 2025-10-05 | 12 | 248 | 29 | 60 | 24 | 129 |
+| last720d | 2024-10-10 | 19 | 459 | 34 | 218 | 36 | 344 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
 | [latest.json](https://github.com/OpenBB-finance/OpenBB/releases/download/ODP/latest.json) | 2.0 KiB | `other` |
-| [Open-Data-Platform_latest_aarch64.dmg](https://github.com/OpenBB-finance/OpenBB/releases/download/ODP/Open-Data-Platform_latest_aarch64.dmg) | 12.8 MiB | `other` |
-| [Open-Data-Platform_latest_x86_64.dmg](https://github.com/OpenBB-finance/OpenBB/releases/download/ODP/Open-Data-Platform_latest_x86_64.dmg) | 13.1 MiB | `other` |
+| [Open-Data-Platform_latest_aarch64.dmg](https://github.com/OpenBB-finance/OpenBB/releases/download/ODP/Open-Data-Platform_latest_aarch64.dmg) | 12.3 MiB | `other` |
+| [Open-Data-Platform_latest_x86_64.dmg](https://github.com/OpenBB-finance/OpenBB/releases/download/ODP/Open-Data-Platform_latest_x86_64.dmg) | 12.7 MiB | `other` |
 | [Open-Data-Platform_latest_x86_64.exe](https://github.com/OpenBB-finance/OpenBB/releases/download/ODP/Open-Data-Platform_latest_x86_64.exe) | 8.9 MiB | `other` |
 
 ## 改进这些数据
@@ -73,4 +73,4 @@ OpenBB 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260929.yml` · 2026-09-29T07:16:41Z._
+_数据快照: `data/card/260930.yml` · 2026-09-30T06:56:53Z._

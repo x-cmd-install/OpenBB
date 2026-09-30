@@ -14,15 +14,15 @@ x install OpenBB
 
 ## Code insight
 
-Total: **1,636,272** lines of code across **1749** files in the top 5 languages.
+Total: **1,370,407** lines of code across **3628** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Yaml | 1,224,766 | 0 | 0 | 329 |
-| Python | 214,849 | 7,509 | 30,930 | 1291 |
-| Json | 164,662 | 0 | 3 | 72 |
-| Tsx | 14,884 | 741 | 1,455 | 38 |
-| Rust | 13,889 | 820 | 1,925 | 19 |
+| Python | 730,966 | 8,572 | 119,732 | 2958 |
+| Yaml | 355,116 | 0 | 2 | 361 |
+| Json | 232,662 | 0 | 5 | 169 |
+| Html | 15,824 | 99 | 9,848 | 102 |
+| Tsx | 14,884 | 737 | 1,455 | 38 |
 
 ## Source
 
@@ -32,36 +32,36 @@ Total: **1,636,272** lines of code across **1749** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `ODP` (2026-04-25)
-- **Last commit**: 2026-07-20
+- **Latest**: `ODP` (2026-09-30)
+- **Last commit**: 2026-09-29
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 73,612 · **Forks**: 7,618 · **Open issues**: 2,331 · **Contributors**: 264
+- **Stars**: 73,666 · **Forks**: 7,626 · **Open issues**: 2,331 · **Contributors**: 268
 
 ## Totals (cumulative)
 
-- **Releases**: 56 · **Merged PRs**: 4378 · **Open PRs**: 43 · **Closed issues**: 2280 · **Open issues**: 51 · **Commits**: 6863
+- **Releases**: 58 · **Merged PRs**: 4382 · **Open PRs**: 36 · **Closed issues**: 2282 · **Open issues**: 49 · **Commits**: 6864
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 0 | 59 | 6 | 2 | 3 | 0 |
-| last60d | 2026-07-31 | 0 | 59 | 14 | 7 | 8 | 0 |
-| 90d | 2026-07-01 | 0 | 86 | 21 | 10 | 14 | 5 |
-| last180d | 2026-04-02 | 2 | 134 | 27 | 20 | 18 | 32 |
-| 360d | 2025-10-04 | 10 | 245 | 36 | 59 | 26 | 128 |
-| last720d | 2024-10-09 | 17 | 459 | 41 | 216 | 38 | 343 |
+| 30d | 2026-08-31 | 3 | 62 | 5 | 3 | 2 | 1 |
+| last60d | 2026-08-01 | 3 | 62 | 12 | 9 | 6 | 1 |
+| 90d | 2026-07-02 | 3 | 88 | 17 | 11 | 12 | 6 |
+| last180d | 2026-04-03 | 4 | 138 | 20 | 22 | 16 | 33 |
+| 360d | 2025-10-05 | 12 | 248 | 29 | 60 | 24 | 129 |
+| last720d | 2024-10-10 | 19 | 459 | 34 | 218 | 36 | 344 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
 | [latest.json](https://github.com/OpenBB-finance/OpenBB/releases/download/ODP/latest.json) | 2.0 KiB | `other` |
-| [Open-Data-Platform_latest_aarch64.dmg](https://github.com/OpenBB-finance/OpenBB/releases/download/ODP/Open-Data-Platform_latest_aarch64.dmg) | 12.8 MiB | `other` |
-| [Open-Data-Platform_latest_x86_64.dmg](https://github.com/OpenBB-finance/OpenBB/releases/download/ODP/Open-Data-Platform_latest_x86_64.dmg) | 13.1 MiB | `other` |
+| [Open-Data-Platform_latest_aarch64.dmg](https://github.com/OpenBB-finance/OpenBB/releases/download/ODP/Open-Data-Platform_latest_aarch64.dmg) | 12.3 MiB | `other` |
+| [Open-Data-Platform_latest_x86_64.dmg](https://github.com/OpenBB-finance/OpenBB/releases/download/ODP/Open-Data-Platform_latest_x86_64.dmg) | 12.7 MiB | `other` |
 | [Open-Data-Platform_latest_x86_64.exe](https://github.com/OpenBB-finance/OpenBB/releases/download/ODP/Open-Data-Platform_latest_x86_64.exe) | 8.9 MiB | `other` |
 
 ## Improve this data
@@ -73,4 +73,4 @@ Install metadata for OpenBB lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T07:16:41Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T06:56:53Z._

@@ -1,8 +1,8 @@
 {
-  "url": "https://api.github.com/repos/OpenBB-finance/OpenBB/releases/399652698",
-  "assets_url": "https://api.github.com/repos/OpenBB-finance/OpenBB/releases/399652698/assets",
-  "upload_url": "https://uploads.github.com/repos/OpenBB-finance/OpenBB/releases/399652698/assets{?name,label}",
-  "html_url": "https://github.com/OpenBB-finance/OpenBB/releases/tag/ODP",
+  "url": "https://api.github.com/repos/openbq-org/OpenBB/releases/399652698",
+  "assets_url": "https://api.github.com/repos/openbq-org/OpenBB/releases/399652698/assets",
+  "upload_url": "https://uploads.github.com/repos/openbq-org/OpenBB/releases/399652698/assets{?name,label}",
+  "html_url": "https://github.com/openbq-org/OpenBB/releases/tag/ODP",
   "id": 399652698,
   "author": {
     "login": "github-actions[bot]",
@@ -37,7 +37,7 @@
   "published_at": "2026-09-30T01:47:43Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/OpenBB-finance/OpenBB/releases/assets/599749839",
+      "url": "https://api.github.com/repos/openbq-org/OpenBB/releases/assets/599749839",
       "id": 599749839,
       "node_id": "RA_kwDOE0FU_s4jv3TP",
       "name": "latest.json",
@@ -67,13 +67,13 @@
       "state": "uploaded",
       "size": 2019,
       "digest": "sha256:f4895f21fc4668338e7475b13072c6ca247a15e4f8914498b4eeca0d3a534435",
-      "download_count": 7,
+      "download_count": 61,
       "created_at": "2026-09-30T01:47:42Z",
       "updated_at": "2026-09-30T01:47:42Z",
-      "browser_download_url": "https://github.com/OpenBB-finance/OpenBB/releases/download/ODP/latest.json"
+      "browser_download_url": "https://github.com/openbq-org/OpenBB/releases/download/ODP/latest.json"
     },
     {
-      "url": "https://api.github.com/repos/OpenBB-finance/OpenBB/releases/assets/599749841",
+      "url": "https://api.github.com/repos/openbq-org/OpenBB/releases/assets/599749841",
       "id": 599749841,
       "node_id": "RA_kwDOE0FU_s4jv3TR",
       "name": "Open-Data-Platform_latest_aarch64.dmg",
@@ -103,13 +103,13 @@
       "state": "uploaded",
       "size": 12862866,
       "digest": "sha256:a8dbb346367be6ec509b4fbefcee164d92d7a58f8e986c36fb003fcd4adb43c3",
-      "download_count": 3,
+      "download_count": 7,
       "created_at": "2026-09-30T01:47:42Z",
       "updated_at": "2026-09-30T01:47:42Z",
-      "browser_download_url": "https://github.com/OpenBB-finance/OpenBB/releases/download/ODP/Open-Data-Platform_latest_aarch64.dmg"
+      "browser_download_url": "https://github.com/openbq-org/OpenBB/releases/download/ODP/Open-Data-Platform_latest_aarch64.dmg"
     },
     {
-      "url": "https://api.github.com/repos/OpenBB-finance/OpenBB/releases/assets/599749838",
+      "url": "https://api.github.com/repos/openbq-org/OpenBB/releases/assets/599749838",
       "id": 599749838,
       "node_id": "RA_kwDOE0FU_s4jv3TO",
       "name": "Open-Data-Platform_latest_x86_64.dmg",
@@ -139,13 +139,13 @@
       "state": "uploaded",
       "size": 13334121,
       "digest": "sha256:3bfb9e53eb1a899d5e6123c165cd8252ffcbd3a4a52f9cd3cd23dab5bbfc4761",
-      "download_count": 2,
+      "download_count": 5,
       "created_at": "2026-09-30T01:47:42Z",
       "updated_at": "2026-09-30T01:47:42Z",
-      "browser_download_url": "https://github.com/OpenBB-finance/OpenBB/releases/download/ODP/Open-Data-Platform_latest_x86_64.dmg"
+      "browser_download_url": "https://github.com/openbq-org/OpenBB/releases/download/ODP/Open-Data-Platform_latest_x86_64.dmg"
     },
     {
-      "url": "https://api.github.com/repos/OpenBB-finance/OpenBB/releases/assets/599749836",
+      "url": "https://api.github.com/repos/openbq-org/OpenBB/releases/assets/599749836",
       "id": 599749836,
       "node_id": "RA_kwDOE0FU_s4jv3TM",
       "name": "Open-Data-Platform_latest_x86_64.exe",
@@ -175,13 +175,13 @@
       "state": "uploaded",
       "size": 9299856,
       "digest": "sha256:82a6d8680f0a3cc07b220396be9f33c27c2a89e07dbfb64d21a606408f61691c",
-      "download_count": 8,
+      "download_count": 25,
       "created_at": "2026-09-30T01:47:42Z",
       "updated_at": "2026-09-30T01:47:42Z",
-      "browser_download_url": "https://github.com/OpenBB-finance/OpenBB/releases/download/ODP/Open-Data-Platform_latest_x86_64.exe"
+      "browser_download_url": "https://github.com/openbq-org/OpenBB/releases/download/ODP/Open-Data-Platform_latest_x86_64.exe"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/OpenBB-finance/OpenBB/tarball/ODP",
-  "zipball_url": "https://api.github.com/repos/OpenBB-finance/OpenBB/zipball/ODP",
+  "tarball_url": "https://api.github.com/repos/openbq-org/OpenBB/tarball/ODP",
+  "zipball_url": "https://api.github.com/repos/openbq-org/OpenBB/zipball/ODP",
   "body": "**This is the latest stable release (v2.0.0)**\n\nThis release always points to the most recent stable version.\nFor version-specific details and release notes, see: [ODP Desktop v2.0.0](https://github.com/OpenBB-finance/OpenBB/releases/tag/Open-Data-Platform-v2.0.0)\n\nThe `latest.json` file in this release is used by the auto-updater to check for new versions.\n"
 }

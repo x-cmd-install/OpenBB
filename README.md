@@ -38,22 +38,22 @@ Total: **1,367,645** lines of code across **3628** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 73,743 · **Forks**: 7,637 · **Open issues**: 2,331 · **Contributors**: 268
+- **Stars**: 73,771 · **Forks**: 7,631 · **Open issues**: 2,333 · **Contributors**: 268
 
 ## Totals (cumulative)
 
-- **Releases**: 58 · **Merged PRs**: 4384 · **Open PRs**: 36 · **Closed issues**: 2283 · **Open issues**: 48 · **Commits**: 6866
+- **Releases**: 58 · **Merged PRs**: 4384 · **Open PRs**: 36 · **Closed issues**: 2284 · **Open issues**: 49 · **Commits**: 6866
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-03 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-04 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-05 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-07 | 12 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-12 | 19 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-03 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-04 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-05 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-06 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-08 | 12 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-13 | 19 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for OpenBB lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T07:01:11Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T06:46:40Z._

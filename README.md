@@ -14,11 +14,11 @@ x install OpenBB
 
 ## Code insight
 
-Total: **1,674,185** lines of code across **3633** files in the top 5 languages.
+Total: **1,674,415** lines of code across **3634** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 737,847 | 8,648 | 120,812 | 2963 |
+| Python | 738,077 | 8,651 | 120,854 | 2964 |
 | Json | 528,433 | 0 | 5 | 169 |
 | Yaml | 356,223 | 0 | 2 | 361 |
 | Html | 15,824 | 99 | 9,848 | 102 |
@@ -33,27 +33,27 @@ Total: **1,674,185** lines of code across **3633** files in the top 5 languages.
 ## Release
 
 - **Latest**: `ODP` (2026-09-30)
-- **Last commit**: 2026-11-07
+- **Last commit**: 2026-11-11
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 75,256 · **Forks**: 7,870 · **Open issues**: 2,340 · **Contributors**: 274
+- **Stars**: 75,320 · **Forks**: 7,878 · **Open issues**: 2,341 · **Contributors**: 275
 
 ## Totals (cumulative)
 
-- **Releases**: 58 · **Merged PRs**: 4400 · **Open PRs**: 54 · **Closed issues**: 2288 · **Open issues**: 52 · **Commits**: 6881
+- **Releases**: 58 · **Merged PRs**: 4403 · **Open PRs**: 58 · **Closed issues**: 2288 · **Open issues**: 53 · **Commits**: 6884
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-10 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-11 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-13 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-14 | 7 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-19 | 18 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-12 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-13 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-15 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-16 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-21 | 18 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for OpenBB lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T08:05:37Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:55:20Z._
